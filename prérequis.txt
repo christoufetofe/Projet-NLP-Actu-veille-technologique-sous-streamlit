@@ -1,0 +1,9 @@
+pip install streamlit
+pip install streamlit_authenticator
+pip install bs4
+pip install unidecode
+pip install nltk
+pip install matplotlib
+pip install spacy
+
+python -m spacy download fr_core_news_lg
