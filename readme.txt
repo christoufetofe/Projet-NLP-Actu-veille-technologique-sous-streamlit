@@ -7,6 +7,6 @@
 
 -Commande pour lancer le serveur streamlit
 		
-		streamlit run test.py
+		streamlit run actu.py
 
 Pour la création et la gestion des utilisateurs lancer le book jupyter Etape1
